@@ -1,0 +1,35 @@
+
+.sanserif{
+  font-family: "Open Sans",Helvetica,Roboto,Arial,sans-serif;
+}
+
+
+.w3-border {
+    border: 1px solid
+  }
+.w3-container, .w3-panel {
+    padding: 0.40em 16px;
+  }
+.w3-round-xlarge {
+    border-radius: 16px;
+}
+p.sanserif{
+  font-family: "Open Sans",Helvetica,Roboto,Arial,sans-serif;
+}
+p {
+  font-size: 0.875em;
+}
+.spaceing {
+  word-spacing: 15px;
+}
+
+.zoom {
+  height: 200px;
+  width: 160px;
+}
+.zoom img {
+  transition: .2s;
+}
+.zoom:hover img{
+  transform: scale(1.1);
+}
